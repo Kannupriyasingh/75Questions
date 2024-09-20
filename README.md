@@ -87,5 +87,5 @@
   #### Top K Frequent Elements
   #### Find Median from Data Stream
 # Important Link:
-  #### 14 Patterns to Ace Any Coding Interview Question  <a id='https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed'></a> ()
-  #### Grind 75  <a id='https://www.techinterviewhandbook.org/grind75'></a>
+  #### Click [here](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) to get 14 Patterns to Ace Any Coding Interview Question
+  #### Click [here](https://www.techinterviewhandbook.org/grind75) to go to Grind 75 
