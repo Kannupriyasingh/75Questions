@@ -1,6 +1,6 @@
 # 75Questions
 
-Array
+# Array
   Two Sum
   Best Time to Buy and Sell Stock
   Contains Duplicate
@@ -11,13 +11,13 @@ Array
   Search in Rotated Sorted Array
   3 Sum
   Container With Most Water
-Binary
+# Binary
   Sum of Two Integers
   Number of 1 Bits
   Counting Bits
   Missing Number
   Reverse Bits
-Dynamic Programming
+# Dynamic Programming
   Climbing Stairs
   Coin Change
   Longest Increasing Subsequence
@@ -29,7 +29,7 @@ Dynamic Programming
   Decode Ways
   Unique Paths
   Jump Game
-Graph
+# Graph
   Clone Graph
   Course Schedule
   Pacific Atlantic Water Flow
@@ -38,25 +38,25 @@ Graph
   Alien Dictionary (Leetcode Premium)
   Graph Valid Tree (Leetcode Premium)
   Number of Connected Components in an Undirected Graph (Leetcode Premium)
-Interval
+# Interval
   Insert Interval
   Merge Intervals
   Non-overlapping Intervals
   Meeting Rooms (Leetcode Premium)
   Meeting Rooms II (Leetcode Premium)
-Linked List
+# Linked List
   Reverse a Linked List
   Detect Cycle in a Linked List
   Merge Two Sorted Lists
   Merge K Sorted Lists
   Remove Nth Node From End Of List
   Reorder List
-Matrix
+# Matrix
   Set Matrix Zeroes
   Spiral Matrix
   Rotate Image
   Word Search
-String
+# String
   Longest Substring Without Repeating Characters
   Longest Repeating Character Replacement
   Minimum Window Substring
@@ -67,7 +67,7 @@ String
   Longest Palindromic Substring
   Palindromic Substrings
   Encode and Decode Strings (Leetcode Premium)
-Tree
+# Tree
   Maximum Depth of Binary Tree
   Same Tree
   Invert/Flip Binary Tree
@@ -82,10 +82,10 @@ Tree
   Implement Trie (Prefix Tree)
   Add and Search Word
   Word Search II
-Heap
+# Heap
   Merge K Sorted Lists
   Top K Frequent Elements
   Find Median from Data Stream
-Important Link:
+# Important Link:
   14 Patterns to Ace Any Coding Interview Question (https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
   Grind 75
